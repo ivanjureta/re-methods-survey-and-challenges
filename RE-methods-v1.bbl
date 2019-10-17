@@ -1,0 +1,125 @@
+\begin{thebibliography}{10}
+
+\bibitem{Belnap:1977}
+N.~D. {Belnap, Jr.}
+\newblock A useful four-valued logic.
+\newblock In J.~M. Dunn and G.~Epstein, editors, {\em Modern Uses of
+  Multiple-Valued Logic}. D. Reidel Publishing Co., 1977.
+
+\bibitem{Castro+:2002:IS}
+J.~Castro, M.~Kolp, and J.~Mylopoulos.
+\newblock {Towards requirements-driven information systems engineering: the
+  Tropos project}.
+\newblock {\em Inf. Syst.}, 27(6):365--389, 2002.
+
+\bibitem{Dardenne+:1993:SCP}
+A.~Dardenne, A.~van Lamsweerde, and S.~Fickas.
+\newblock Goal-directed requirements acquisition.
+\newblock {\em Sci. Comput. Program.}, 20(1-2):3--50, 1993.
+
+\bibitem{Dubois+:1988:PJR}
+E.~Dubois, J.~Hagelstein, and A.~Rifaut.
+\newblock {Formal Requirements Engineering with ERAE}.
+\newblock {\em Philips Journal of Research}, 43(3/4):393--414, 1988.
+
+\bibitem{Finkelstein+:1994:TSE}
+A.~C.~W. Finkelstein, D.~Gabbay, A.~Hunter, J.~Kramer, and B.~Nuseibeh.
+\newblock Inconsistency handling in multiperspective specifications.
+\newblock {\em IEEE Trans. Softw. Eng.}, 20(8):569--578, 1994.
+
+\bibitem{Ford+2000:CI}
+M.~Ford and D.~Billington.
+\newblock Strategies in human nonmonotonic reasoning.
+\newblock {\em Computational Intelligence}, 16(3):446--468, 2000.
+
+\bibitem{Fuxman+:2004:REJ}
+A.~Fuxman, L.~Liu, J.~Mylopoulos, M.~Roveri, and P.~Traverso.
+\newblock {Specifying and analyzing early requirements in Tropos}.
+\newblock {\em Requirements Eng.}, 9(2):132--150, 2004.
+
+\bibitem{Gabbay:1985}
+D.~Gabbay.
+\newblock {Theoretical foundations of non-monotonic reasoning in expert
+  systems}.
+\newblock In {\em {Logics and Models of Concurrent Systems}}. Springer, 1985.
+
+\bibitem{Gervasi+:2005:TOSEM}
+V.~Gervasi and D.~Zowghi.
+\newblock Reasoning about inconsistencies in natural language requirements.
+\newblock {\em ACM Trans. Softw. Eng. Methodol.}, 14(3):277--330, 2005.
+
+\bibitem{Greenspan:1984:PHD}
+S.~J. Greenspan.
+\newblock {\em Requirements modeling: a knowledge representation approach to
+  software requirements definition}.
+\newblock PhD thesis, 1984.
+
+\bibitem{HP:2007}
+K.~B. Hass.
+\newblock {\em {The business analyst: The pivotal IT role of the future}}.
+\newblock {Hewlett-Packard Company}, 2007.
+
+\bibitem{Hunter+:1998:TOSEM}
+A.~Hunter and B.~Nuseibeh.
+\newblock Managing inconsistent specifications: Reasoning, analysis, and
+  action.
+\newblock {\em ACM Trans. Softw. Eng. Methodol.}, 7(4):335--367, 1998.
+
+\bibitem{BABOK:2009}
+IIBA.
+\newblock {\em {A Guide to the Business Analysis Body of Knowledge}}.
+\newblock {International Institute for Business Analysis (IIBA)}, 2009.
+
+\bibitem{Jureta+:2010:RE}
+I.~J. Jureta, A.~Borgida, N.~A. Ernst, and J.~Mylopoulos.
+\newblock {Techne: Towards a New Generation of Requirements Modeling Languages
+  with Goals, Preferences, and Inconsistency Handling}.
+\newblock In {\em 18th IEEE Int. Requirements Eng. Conf.}, 2010.
+
+\bibitem{Jureta+:2009:AO}
+I.~J. Jureta, J.~Mylopoulos, and S.~Faulkner.
+\newblock A core ontology for requirements.
+\newblock {\em Applied Ontology}, 4(3-4):169--244, 2009.
+
+\bibitem{Letier+:2004:FSE}
+E.~Letier and A.~van Lamsweerde.
+\newblock Reasoning about partial goal satisfaction for requirements and design
+  engineering.
+\newblock In {\em SIGSOFT FSE}, pages 53--62, 2004.
+
+\bibitem{Masolo+:2003}
+C.~Masolo, S.~Borgo, A.~Gangemi, N.~Guarino, A.~Oltamari, and L.~Schneider.
+\newblock {DOLCE : a Descriptive Ontology for Linguistic and Cognitive
+  Engineering}.
+\newblock Technical report, Institute of Cognitive Science and Technology,
+  Italian National Research Council, 2003.
+
+\bibitem{Moody+:2010:REJ}
+Daniel~Laurence Moody, Patrick Heymans, and Raimundas Matulevicius.
+\newblock Visual syntax does matter: improving the cognitive effectiveness of
+  the {\it i}* visual notation.
+\newblock {\em Requir. Eng.}, 15(2):141--175, 2010.
+
+\bibitem{Mylopoulos+:1992:TSE}
+J.~Mylopoulos, L.~Chung, and B.~Nixon.
+\newblock Representing and using nonfunctional requirements: A process-oriented
+  approach.
+\newblock {\em IEEE Trans. Softw. Eng.}, 18(6):483--497, 1992.
+
+\bibitem{Wing:1990:C}
+J.~M. Wing.
+\newblock A specifier's introduction to formal methods.
+\newblock {\em IEEE Computer}, 23(9):8--24, 1990.
+
+\bibitem{Yu+:1994:ICSE}
+E.~S.~K. Yu and J.~Mylopoulos.
+\newblock {Understanding "Why" in Software Process Modelling, Analysis, and
+  Design}.
+\newblock In {\em Proc. 16th Int. Conf. Software Eng.}, pages 159--168, 1994.
+
+\bibitem{Zave+:1997:TOSEM}
+P.~Zave and M.~Jackson.
+\newblock Four dark corners of requirements engineering.
+\newblock {\em ACM T. Softw. Eng. Methodol.}, 6(1):1--30, 1997.
+
+\end{thebibliography}
